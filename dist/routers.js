@@ -1,7 +1,6 @@
 page('/', index);
 page('/products', products);
 page('/productsTwo', productsTwo);
-page('/shopping', shopping);
 page();
 
 function index() {
